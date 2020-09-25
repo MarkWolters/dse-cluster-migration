@@ -3,8 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>phact</groupId>
-  <artifactId>dse-cluster-migration</artifactId>
-  <version>0.1</version>
+  <!-- <artifactId>dse-cluster-migration</artifactId> -->
+  <artifactId>migrator-v2</artifactId>
+  <version>0.2</version>
   <packaging>jar</packaging>
 
   <properties>
